@@ -22,6 +22,7 @@ devDependencies:
   "http-server": "^0.7.4"
   jade: "^1.9.1"
   "live-reload": "^0.2.0"
+  "LiveScript": "^1.3.1"
   parallelshell: "^1.0.3"
   stylus: "^0.50.0"
   watch: "^0.13.0"
